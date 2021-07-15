@@ -1,8 +1,8 @@
-# to-do-list
-a to-do list fullstack web app deployed on Heroku with MongoDB cloud
+# To-Do-list
+A To-Do list fullstack web app deployed on Heroku with MongoDB cloud
 
-author:R.S.Karthik Kumar
-## installation & use
+Author:R.S.Karthik Kumar
+## Installation & use
 
 If you would like to download the repo and run the app locally on localhost 3000 (or any port you specify), that is also an option.
 
